@@ -1,3 +1,6 @@
+#this code lets you play a simple game of rock, scissors, paper
+#it was made just for the python practice 
+
 import random
 from enum import IntEnum
 
